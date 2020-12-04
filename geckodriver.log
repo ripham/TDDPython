@@ -66,3 +66,12 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1607083408662	Marionette	INFO	Stopped listening on port 33277
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607085439891	geckodriver	INFO	Listening on 127.0.0.1:38897
+1607085439895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKmu0lQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607085441261	Marionette	INFO	Listening on port 39363
+1607085441315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607085441384	Marionette	INFO	Stopped listening on port 39363
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
