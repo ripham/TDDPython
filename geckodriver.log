@@ -75,3 +75,23 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607095209609	geckodriver	INFO	Listening on 127.0.0.1:56937
+1607095209613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6kjl1b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607095210906	Marionette	INFO	Listening on port 37641
+1607095210932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607095211002	Marionette	INFO	Stopped listening on port 37641
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607097355561	geckodriver	INFO	Listening on 127.0.0.1:56031
+1607097355565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1EehIG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607097356843	Marionette	INFO	Listening on port 42623
+1607097356886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607097356970	Marionette	INFO	Stopped listening on port 42623
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
